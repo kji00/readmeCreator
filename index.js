@@ -22,7 +22,7 @@ const questions = [
     {
         // 3. project name:
         type: 'input',
-        name: 'project',
+        name: 'projectName',
         message: 'What is the name of your project?'
     },
     {
@@ -48,14 +48,14 @@ const questions = [
     {
         // 7. What command should be run to run tests? (npm test)
         type: 'input',
-        name: 'command',
+        name: 'test',
         message: 'What command should be run to run tests?',
         default: 'npm test'
     },
     {
         // 8. What does the user need to know about using the repo?
         type: 'input',
-        name: 'instructions',
+        name: 'usage',
         message: 'What does the user need to know about using the repo?'
     },
     {

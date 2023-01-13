@@ -40,8 +40,3 @@
   # Questions
 
   If you have any question you can email the author at alkkim@gmail.com or visit the authors Github repo at https://github.com/kji00
-
-
-  ## Video Link
-
-  [README generator video use](https://drive.google.com/file/d/1xpSHymkxWyjdIEvC3ig6hkZOuUHiKcFz/view)
